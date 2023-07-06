@@ -1,4 +1,4 @@
-Hi 👋, I’m Tim Rayner, Welcome to my GitHub! 👾
+Hi 👋, I’m Tim, Welcome to my GitHub! 👾
 -
 👨‍💻 Junior Front End Developer at Mobilityways and Liftshare (liftshare.com)
 
