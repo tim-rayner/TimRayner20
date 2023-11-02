@@ -2,7 +2,7 @@ Hi 👋, I’m Tim, Welcome to my GitHub! 👾
 -
 👨‍💻 Junior Front End Developer at Mobilityways and Liftshare (liftshare.com)
 
-📚 5 years of development experience, specializing in front end development for the past 4 years
+📚 5 years of development experience, specializing in full stack development for the past 4 years
 
 ⚙️ Passionate about exploring new technologies and staying up-to-date with the latest trends
 
